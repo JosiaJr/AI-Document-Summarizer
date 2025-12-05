@@ -11,7 +11,7 @@ A Python project that extracts text from PDFs using Azure Document Intelligence 
 * Batch-processing of PDF files in a folder
 * Text extraction using Azure Document Intelligence (prebuilt `layout`)
 * Summarization using Groq `llama-3.1-8b-instant` (chat completion)
-* Saves or prints summaries per file
+* Prints summaries per file
 * `.env` support for storing API keys
 * Simple formatting for recruiter-friendly presentation
 
