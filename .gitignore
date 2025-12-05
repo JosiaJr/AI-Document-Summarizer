@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files with keys
+.env
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# My PDF samples
+*.pdf
